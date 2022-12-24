@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **Piyush-Gambhir/Piyush-Gambhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 Hello, my name is Piyush Gambhir and I am a Student. I am passionate about Artificial Intelligence.
 
 On my profile, you will find a variety of projects that showcase my abilities in various Programming Languages. Feel free to take a look around and see what I have been working on.
