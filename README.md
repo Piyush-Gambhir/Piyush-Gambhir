@@ -24,8 +24,21 @@ Thank you for visiting my profile. Below are my social connects and portfolio li
 [![Github Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush-Gambhir)
 [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gambhirpiyush/)
 [![Twitter Icon](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_piyushgambhir)
+[![Stack Overflow Icon](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17168429/piyush-gambhir)
 <br>
-[![Leetcode Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/Piyush-Gambhir/)
+[![Leetcode Icon](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Piyush-Gambhir/)
 [![CodeChef Icon](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/piyushgambhir)
 [![Codeforces Icon](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/piyushgambhir)
-[![Leetcode Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/Piyush-Gambhir/)
+[![Hackerearth Icon](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)]()
+[![Hackerrank Icon](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]()
+[![Kaggle Icon](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
+<br>
+[![GeeksForGeeks Icon](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/piyushgambhir/)
+[![Medium Icon](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_piyushgambhir)
+<br>
+[![Coursera Icon](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/e4358ca9d32d6009d5ee88247a87aa33)
+[![Coding Ninjas Icon](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://profile.codingninjas.com/96bc6651-7bbb-427b-8bc2-bde3dee8798f)
+
+<!-- [![ Icon]()]()
+[![ Icon]()]()
+ -->
